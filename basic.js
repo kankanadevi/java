@@ -21,3 +21,4 @@ console.log(a%b);
 let marks=30;
 marks=7;
 console.log(marks);
+
