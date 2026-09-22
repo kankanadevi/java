@@ -1,0 +1,18 @@
+let studentName = "riya";
+let age = 20 ;
+const course = "bsc in data science";
+const collegeName = "SITM";
+let marks = 90;
+const birthyear = 2006;
+let city = "tezpur";
+let semester = "first";
+let favouritesubject = "DBMS";
+console.log(studentName);
+console.log(age);
+console.log(course);
+console.log(collegeName);
+console.log(marks);
+console.log(birthyear);
+console.log(city);
+console.log(semester);
+console.log(favouritesubject);
